@@ -1,4 +1,4 @@
-<h3>Author: Abrar Sami Nawshad</h3><br>
+## Author: Abrar Sami Nawshad
 ## Flutter Custom Container
 
 ## What it does:
